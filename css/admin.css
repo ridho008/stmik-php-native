@@ -1,0 +1,15 @@
+.nav-link:hover {
+	background-color: grey;
+}
+
+.card-body-icon {
+	position: absolute;
+	font-size: 90px;
+	top: 20px;
+	right: 10px;
+	opacity: 0.4;
+}
+
+.sosmed {
+	margin-left: 81px;
+}
